@@ -1,4 +1,4 @@
-# Blog personal con CRUD
+# Blog Personal con CRUD
 <h2>🚀 Descripción</h2>
 Este es un sistema de blog en el que puedes agregar, editar, eliminar y visualizar publicaciones. Implementé un sistema de usuarios para que los administradores puedan gestionar el contenido.
 <h2>🚀 Características</h2>
