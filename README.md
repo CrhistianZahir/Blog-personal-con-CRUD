@@ -3,9 +3,9 @@
 Este es un sistema de blog en el que puedes agregar, editar, eliminar y visualizar publicaciones. Implementé un sistema de usuarios para que los administradores puedan gestionar el contenido.
 <h2>🚀 Características</h2>
 <p>✅ Autenticación y registro de usuarios.</p>
-<p>✅ Publicar artículos con títulos, contenido, imágenes y etiquetas.</p>
+<p>✅ Publicar artículos con títulos, contenido, imágenes y documentos.</p>
 <p>✅ CRUD completo (Crear, Leer, Actualizar y Eliminar) para las publicaciones.</p>
-<p>✅ Utiliza MySQL como base de datos para almacenar las publicaciones y usuarios.</p>
+<p>✅ Utiliza MySQL como base de datos para almacenar las publicaciones.</p>
 <p>✅ Usuario: crhistian</p>
 <P>✅ Contraseña: 12345678</P>
 <h2>🚀 Tecnologías</h2>
